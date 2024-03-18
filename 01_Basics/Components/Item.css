@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+}
+
+.Item{
+    text-align: center;
+    background: black;
+    color: white;
+    width:80px;
+    height: 80px;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 2px;
+    border: 2px solid white;
+    border-radius: 5px;
+
+}
+
+.date{
+    width:auto;
+    font-weight: 600;
+}
+
+.Title{
+    color: blue;
+}
